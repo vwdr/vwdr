@@ -1,6 +1,6 @@
 ## Hi, I'm Ved!
 
-#Im a Sophmore at John P. Stevens High School. My passion is CS but I am still exploring my options!
+# Im a Sophmore at John P. Stevens High School. My passion is CS but I am still exploring my options!
 
 <!--
 **vwdr/vwdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
