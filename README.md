@@ -1,14 +1,5 @@
-<p align="center">
-  <svg width="100%" height="150">
-    <rect width="100%" height="100%" fill="#3b82f6"></rect>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="36" font-family="Arial, sans-serif" fill="white" font-weight="bold">
-      <tspan>
-        <animate attributeName="fill" values="#ffffff;#ff5e57;#ffa502;#2ed573;#ffffff" dur="4s" repeatCount="indefinite"/>
-        vwdr
-      </tspan>
-    </text>
-  </svg>
-</p>
+![Profile Banner](https://via.placeholder.com/1200x300/0000FF/FFFFFF?text=Ved+Dwivedi)
+
 
 
 <!--
