@@ -1,6 +1,6 @@
 ## Hi, I'm Ved!
 
-
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=vwdr"></p>
 
 <!--
 **vwdr/vwdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
