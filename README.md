@@ -1,5 +1,3 @@
-## Hi, I'm Ved!
-
 <p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=vwdr"></p>
 
 <!--
