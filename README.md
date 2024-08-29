@@ -1,6 +1,6 @@
 ## Hi, I'm Ved!
 
-Im a Sophmore at John P. Stevens High School. My passion is CS!
+![alt text]([http://url/to/img.png](https://img.freepik.com/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-63491.jpg?t=st=1724902131~exp=1724905731~hmac=145908316152fd9725a8a027b33e6b56045a8bf9ea8e111a11377b8385551d55&w=1380))
 
 <!--
 **vwdr/vwdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
