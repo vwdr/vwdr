@@ -1,4 +1,4 @@
-![Profile Banner](https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=220&section=header&text=vwdr%20👾&fontSize=64&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=vwdr👾&fontSize=80&fontAlignY=40)
   
   
   
