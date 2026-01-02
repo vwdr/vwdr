@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=vwdr👾&fontSize=80&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ved%20Dwivedi&fontSize=80&fontAlignY=40)
   
   
   
